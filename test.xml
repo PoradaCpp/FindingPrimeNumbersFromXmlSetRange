@@ -1,0 +1,67 @@
+<root>
+
+ <intervals>
+
+   <interval>
+     <low> 0 </low>
+     <high> 1000</high>
+   </interval>
+
+   <interval>
+      <low> 500</low>
+      <high> 888</high>
+    </interval>
+
+    <interval>
+     <low> 900</low>
+     <high> 1000</high>
+    </interval>
+
+    <interval>
+     <low> 300</low>
+     <high> 700</high>
+    </interval>
+
+  </intervals>
+
+  <circles>
+
+    <circle>
+      <center_x> 250 </center_x>
+      <center_y> 250 </center_y>
+      <radius> 100 </radius>
+    </circle>
+
+    <circle>
+      <center_x> 280 </center_x>
+      <center_y> 270 </center_y>
+      <radius> 10</radius>
+    </circle>
+
+  </circles>
+
+  <intervals>
+
+   <interval>
+     <low> 8000 </low>
+     <high> 8200</high>
+   </interval>
+
+   <interval>
+      <low> 10000</low>
+      <high> 10088</high>
+    </interval>
+
+    <interval>
+     <low> 900</low>
+     <high> 950</high>
+    </interval>
+
+    <interval>
+     <low> 250</low>
+     <high> 270</high>
+    </interval>
+
+  </intervals>
+
+</root>
